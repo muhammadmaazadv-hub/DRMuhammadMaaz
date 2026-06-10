@@ -1,0 +1,43 @@
+# Efficient Market Hypothesis (EMH)
+
+
+## Overview
+This repository contains research materials, empirical analysis, and supporting documents related to the Efficient Market Hypothesis (EMH).
+
+## Research Objective
+To examine whether financial markets efficiently incorporate available information into asset prices and to evaluate evidence supporting or contradicting the Efficient Market Hypothesis.
+
+## Theoretical Background
+The Efficient Market Hypothesis, developed by :contentReference[oaicite:0]{index=0}, states that security prices reflect available information, making it difficult for investors to consistently achieve abnormal returns.
+
+### Forms of EMH
+1. Weak-form efficiency
+2. Semi-strong-form efficiency
+3. Strong-form efficiency
+
+## Methodology
+- Literature review
+- Statistical analysis
+- Event study methods
+- Time-series analysis
+
+## Software
+- Stata
+- R
+- Python
+- Excel
+
+## Repository Structure
+
+- `paper/` : Research papers and manuscripts
+- `data/` : Datasets used in analysis
+- `code/` : Statistical and econometric code
+- `results/` : Tables, figures, and outputs
+- `docs/` : Supporting documentation
+
+## Author
+Muhammad Maaz
+
+
+## License
+MIT License
